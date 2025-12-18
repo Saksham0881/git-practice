@@ -1,2 +1,9 @@
-# git-practice
-Practice repository for learning Git and GitHub workflows.
+# Git Practice
+
+This repository is used to practice Git and GitHub workflows:
+- cloning
+- committing
+- branching
+- pull requests
+
+Author: Saksham Singh
